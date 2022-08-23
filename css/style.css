@@ -135,6 +135,15 @@ footer img:hover {
     border: 3px solid black;
 }
 
+@media (max-width:315px) {
+    
+    
+
+    p {
+        font-size: 20px;
+    }
+}
+
 
 
 
